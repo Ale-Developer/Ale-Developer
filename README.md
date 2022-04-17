@@ -6,7 +6,7 @@
 ██║░░██║███████╗███████╗░░░░░░██████╔╝███████╗░░╚██╔╝░░
 ╚═╝░░╚═╝╚══════╝╚══════╝░░░░░░╚═════╝░╚══════╝░░░╚═╝░░░
 
-Hola 🖐, soy Alejandro Espinosa,actualmente estoy cursando la carrera de desarrollo de software 👨‍💻, la cual termino en 2022.
+Hola 🖐, soy Alejandro Espinosa 👨🏻‍💻,actualmente estoy cursando la carrera de desarrollo de software 👨‍💻, la cual termino en 2022.
 Manejo Python 🐍, Java ☕, MySQL 🐬, SQLite, metodologias agiles.
 Actualmente perfeccionandome en HTML, CSS, JS, Linux 🐧, Angular, Typescript y Bootstrap.
 
