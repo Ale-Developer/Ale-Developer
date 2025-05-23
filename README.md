@@ -8,7 +8,7 @@
 
 ## Sobre mí:
 
-Hola 🖐, soy Alejandro Espinosa, una persona apasionada por el desarrollo, por el aprendizaje, por mejorar día a día. Actualmente estoy terminando la carrera de Tecnicatura en desarrollo de software👨‍💻 y trabajo para LabsXD como Salesforce developer ☁.
+Hola 🖐, soy Alejandro Espinosa, una persona apasionada por el desarrollo, por el aprendizaje, por mejorar día a día. Terminé la carrera de Tecnicatura en desarrollo de software👨‍💻 y trabajo para Andina ART como Salesforce developer ☁.
 
 ## ⚡ Tecnologías:
 
